@@ -1,0 +1,2 @@
+# DiscordBots
+Ghouls und Mindestlohn
